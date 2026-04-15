@@ -1,0 +1,8 @@
+{
+    "name": "Character Phone Viewer",
+    "version": "1.0.0",
+    "description": "แสดงมือถือของตัวละครพร้อมแอปต่างๆ สำหรับการสวมบทบาท",
+    "author": "faydesu",
+    "entry": "index.js",
+    "css": "style.css"
+}
