@@ -1,8 +1,9 @@
 {
-    "name": "Character Phone Viewer",
+    "display_name": "มือถือของตัวละคร",
+    "loading_order": 9,
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Faydesu",
     "version": "1.0.0",
-    "description": "แสดงมือถือของตัวละครพร้อมแอปต่างๆ สำหรับการสวมบทบาท",
-    "author": "faydesu",
-    "entry": "index.js",
-    "css": "style.css"
+    "homePage": "https://github.com/your-repo/character-phone"
 }
