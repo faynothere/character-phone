@@ -1,9 +1,9 @@
 {
-    "display_name": "มือถือของตัวละคร",
-    "loading_order": 9,
+    "display_name": "📱 มือถือของตัวละคร",
+    "loading_order": 15,
     "js": "index.js",
     "css": "style.css",
-    "author": "Faydesu",
-    "version": "1.0.0",
+    "author": "faydesu",
+    "version": "1.0.1",
     "homePage": "https://github.com/your-repo/character-phone"
 }
